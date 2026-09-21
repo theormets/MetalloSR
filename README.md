@@ -1,6 +1,6 @@
 # 🔬 MetalloSR — Metallurgical Symbolic Regression
 
-MetaSR is a cluster-guided symbolic regression platform for discovering interpretable metallurgical equations from numeric datasets.
+MetalloSR is a cluster-guided symbolic regression platform for discovering interpretable metallurgical equations from numeric datasets.
 
 ## Live Application
 

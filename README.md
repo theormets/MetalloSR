@@ -4,7 +4,7 @@ MetalloSR is a cluster-guided symbolic regression platform for discovering inter
 
 ## Live Application
 
-Use MetaSR here:
+Use MetalloSR here:
 
 **https://theormets.github.io/MetaSR/**
 
